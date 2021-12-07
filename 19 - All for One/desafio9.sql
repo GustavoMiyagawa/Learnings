@@ -1,0 +1,1 @@
+select notes from northwind.purchase_orders where not(notes='null');
